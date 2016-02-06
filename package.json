@@ -1,0 +1,8 @@
+{
+  "name": "CloudCakes",
+  "version": "0.0.1",
+  "description" : "Sample app showcasing how to migrate Parse users to Auth0",
+  "dependencies": {
+    "express": "latest"
+  }
+}
