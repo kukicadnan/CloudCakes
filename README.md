@@ -22,5 +22,5 @@ In order to run the example you need to just start a server. What we suggest is 
 Go to [http://localhost:3000](http://localhost:3000) and you'll see the app running :).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kukicadnan/CloudCakes/master/img/cloud-cakes-app.png" alt="CloudCakes App"/>
+  <img src="https://raw.githubusercontent.com/kukicadnan/CloudCakes/master/img/cloud-cakes-main.png" alt="CloudCakes App"/>
 </p>
