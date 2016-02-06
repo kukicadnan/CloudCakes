@@ -1,0 +1,60 @@
+body {
+	overflow: hidden;
+}
+
+h3{
+	font-weight: bold;
+}
+.logo-cloud {
+	color: #16214D;
+	font-size: 300%;
+}
+.logo-cake {
+	color: #eb5424;
+	font-size: 300%;
+	margin-top: -75px;
+}
+
+.step {
+	float: left;
+	width: 30.3%;
+	margin: 25px 1.5% 25px 1.5%;
+}
+
+.step-icon {
+	font-size: 175%;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.press {
+	margin: 50px 0px;
+}
+
+ul {
+	margin: 50px;
+	text-align: left;
+	padding-left: 0;
+
+}
+
+ul li {
+	font-size: 70%;
+	list-style-type: none;
+	padding-bottom: 25px;
+}
+
+.label-press {
+	background: #333;
+}
+
+.label-blog {
+	background: #eb5424;
+}
+
+.label-cake {
+	background: #eb5424;
+	margin-bottom: 25px;
+}

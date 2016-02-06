@@ -1,0 +1,12 @@
+<div class="home">
+  <h1><i class="fa fa-cloud logo-cloud"></i><br /><i class="logo-cake fa fa-birthday-cake"></i></h1>
+  <h3>CloudCakes</h3>
+  <img src="{{auth.profile.picture}}" />
+  <h2>Welcome {{auth.profile.nickname}}</h2>
+  <div ng-if="cake">
+  	<h2>Your <strong>CloudCake</strong> is on the way!</h2>
+  	<p class="label label-cake">Red Velvet Bakery - Red Velvet Cake - 4 minutes away</p>
+  </div>
+  <button ng-if="!cake" class="btn btn-lg btn-primary btn-block" ng-click="requestCake()">Request Cake</button> <br />
+  <a class="btn-sm btn-danger" ng-click="logout()">Logout</a>
+</div>
