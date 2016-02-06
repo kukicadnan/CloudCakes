@@ -1,6 +1,6 @@
-# Migrate Parse Uses to Auth0
+# Migrate Parse Users to Auth0
 
-This is a sample app demonstrating how to migrate your existing Parse users to Auth0. For additional details see the following [post](htps://auth0.com/blog)
+This is a sample app demonstrating how to migrate your existing Parse users to Auth0. For additional details see the following [post](htps://auth0.com/blog).
 
 ## Prerequisite - Auth0 Account
 
@@ -20,3 +20,6 @@ In order to run the example you need to just start a server. What we suggest is 
 3. run node server
 
 Go to [http://localhost:3000](http://localhost:3000) and you'll see the app running :).
+[app-img]
+
+[app-img]: https://github.com/kukicadnan/cloudcakes/img/cloud-cakes-app.png "CloudCakes App"
