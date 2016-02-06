@@ -20,6 +20,5 @@ In order to run the example you need to just start a server. What we suggest is 
 3. run node server
 
 Go to [http://localhost:3000](http://localhost:3000) and you'll see the app running :).
-[app-img]
 
-[app-img]: https://github.com/kukicadnan/cloudcakes/img/cloud-cakes-app.png "CloudCakes App"
+![CloudCakes App](https://raw.githubusercontent.com/kukicadnan/CloudCakes/master/img/cloud-cakes-app.png)
