@@ -21,6 +21,9 @@ In order to run the example you need to just start a server. What we suggest is 
 
 Go to [http://localhost:3000](http://localhost:3000) and you'll see the app running :).
 
+## Database Action Scripts
+There are two scripts, **Login** and **Get User**, that will need to be implemented within the Auth0 Dashboard to enable the automigration to take place. We have added our sample implementation in the DatabaseActionScripts folder in this repo - to learn the how and why please visit this [post](htps://auth0.com/blog).
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kukicadnan/CloudCakes/master/img/cloud-cakes-main.png" alt="CloudCakes App"/>
 </p>
